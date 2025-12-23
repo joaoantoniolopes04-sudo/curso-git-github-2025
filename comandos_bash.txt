@@ -1,0 +1,3 @@
+ls->lista arquivos
+cd--> move diretorios
+pwd-->mostra diretorios
