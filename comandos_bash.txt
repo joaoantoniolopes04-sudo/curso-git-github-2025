@@ -1,3 +1,5 @@
 ls->lista arquivos
 cd--> move diretorios
 pwd-->mostra diretorios
+cat--> conteúdo do arquivo
+rm --> remove arquivo ou diretório
