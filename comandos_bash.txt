@@ -4,3 +4,4 @@ pwd-->mostra diretorios
 cat--> conteúdo do arquivo
 rm --> remove arquivo ou diretório
 rm-rf--> remove do forma recursiva e forçada todos os diretórios
+fodase
